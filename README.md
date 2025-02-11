@@ -22,7 +22,8 @@ A simple and modern calculator with a purple-themed design, built using **HTML**
 
    
 ## Demo 🎥
+Check out the live demo 
  ```bash
-Check out the live demo https://anismarsela32.github.io/aplikasi-kalkulator/
+https://anismarsela32.github.io/aplikasi-kalkulator/
 
    
