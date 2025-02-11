@@ -23,6 +23,6 @@ A simple and modern calculator with a purple-themed design, built using **HTML**
    
 ## Demo 🎥
  ```bash
-Check out the live demo https://AnisMarsela32.github.io/aplikasi-kalkulator/
+Check out the live demo https://anismarsela32.github.io/aplikasi-kalkulator/
 
    
